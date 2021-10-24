@@ -1,6 +1,6 @@
 Ecosistema VZL COIN
 
-VZL, es un token de liquidez para la plataforma de Finanzas Descentralizadas (DeFi) en la Binance Smart Chain, se puede definir como una moneda digital, así como un sistema de pago. VZL Coín está diseñado y desarrollado a través de tecnología de punta con el fin de realizar la generación de micro pagos, transacciones de manera rápida y a muy bajo costo, accesible al almacenamiento y desarrollo e implementación de aplicaciones descentralizadas.
+VZL, es un token de liquidez del tipo de Finanzas Descentralizadas (DeFi) en la Binance Smart Chain, se puede definir como una moneda digital, así como un sistema de pago. VZL Coín está diseñado y desarrollado a través de tecnología de punta con el fin de realizar la generación de micro pagos, transacciones de manera rápida y a muy bajo costo, accesible al almacenamiento y desarrollo e implementación de aplicaciones descentralizadas.
 
 El propósito de VZL Coín es proporcionar los más altos estándares desde una perspectiva de confiabilidad para transacciones financieras y pagos en todo el mundo, el objetivo es establecer una comunidad financiera, donde pueden utilizar la moneda para su uso diario para comprar bienes y servicios con ella, además puede actuar como un banco descentralizado, ya que al adquirirla puedes depositarlo en tu wallet usándolo como una tarjeta de débito o cuenta bancaria internacional
 
